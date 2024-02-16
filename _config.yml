@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 🌱 Learn Anything's Garden
-email: support@thinhvu.com
-author: LEarn Anything
+title: 🌱 Blog của Min
+email: minhquangdinhnhat@gmail.com
+author: Xabin D. Min
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -94,9 +94,9 @@ translate_langs:
 #     img: https://cdn.countryflags.com/thumbs/china/flag-400.png
 #     text: Chinese(Simple)
 #
-#   - lang: ja
-#     img: https://cdn.countryflags.com/thumbs/japan/flag-400.png
-#     text: Japanese
+  - lang: ja
+    img: https://cdn.countryflags.com/thumbs/japan/flag-400.png
+    text: Japanese
 #
 #   - lang: ko
 #     img: https://cdn.countryflags.com/thumbs/south-korea/flag-400.png
