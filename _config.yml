@@ -163,7 +163,8 @@ header_pages:
   - tags.html
   - archives.html
   - title: Khóa học
-    url: https://learn-anything.vn/
+    # url: https://learn-anything.vn/
+    url: https://banhkun.github.io/Blog/
   - about.html
 
 # Page default value
